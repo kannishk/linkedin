@@ -1,0 +1,195 @@
+{
+  "industryName": "Information Technology & Services",
+  "lastName": "Chauhan",
+  "locationName": "India",
+  "student": false,
+  "geoCountryName": "India",
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "elt": false,
+  "industryUrn": "urn:li:fs_industry:96",
+  "firstName": "Pallavi",
+  "entityUrn": "urn:li:fs_profile:ACoAAC2LhG4BxE69cUzS-id2cz-3dI3xN5u39KM",
+  "geoLocation": { "geoUrn": "urn:li:fs_geo:106187582" },
+  "geoLocationName": "Delhi",
+  "location": { "basicLocation": { "countryCode": "in" } },
+  "headline": "Human Resource Executive at ALGOWIRE TRADING TECHNOLOGIES PRIVATE LIMITED",
+  "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEP5GiLZ-WiZg/profile-framedphoto-shrink_",
+  "img_200_200": "200_200/0/1642675316261?e=1659009600&v=beta&t=v6Nbs-JU5zO8SQfduxcrxkJDKWLy2E4tdJP8J6tyItU",
+  "img_400_400": "400_400/0/1642675316261?e=1659009600&v=beta&t=T4KdmTmuGUDG2zDen1FsRKNa5Ih3YzkHrtHxp1Gqhtk",
+  "img_800_800": "800_800/0/1642675316261?e=1659009600&v=beta&t=3eChEiEMNlnMpzBWXMzEDNa3ZXIzC1GE8erQSpBG8uk",
+  "img_100_100": "100_100/0/1642675316261?e=1659009600&v=beta&t=Oggx3SASig8XgLGCmUkqRISMILUeJS72Kut2wMZOrDA",
+  "profile_id": "ACoAAC2LhG4BxE69cUzS-id2cz-3dI3xN5u39KM",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAAC2LhG4BxE69cUzS-id2cz-3dI3xN5u39KM",
+  "member_urn": "urn:li:member:764118126",
+  "experience": [
+    {
+      "entityUrn": "urn:li:fs_position:(ACoAAC2LhG4BxE69cUzS-id2cz-3dI3xN5u39KM,1536819244)",
+      "$anti_abuse_metadata": {
+        "/geoUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/companyName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/companyUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/entityUrn": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/geoLocationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/promotion": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/title": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/region": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/locationName": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        },
+        "/description": {
+          "sourceUrns": {
+            "com.linkedin.common.urn.MemberUrn": "urn:li:member:764118126"
+          }
+        }
+      },
+      "companyName": "ALGOWIRE TRADING TECHNOLOGIES PRIVATE LIMITED",
+      "timePeriod": { "startDate": { "month": 8, "year": 2019 } },
+      "title": "Hr executive"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAAC2LhG4BxE69cUzS-id2cz-3dI3xN5u39KM,712080760)",
+      "school": {
+        "objectUrn": "urn:li:school:3232837",
+        "entityUrn": "urn:li:fs_miniSchool:3232837",
+        "active": true,
+        "schoolName": "Jamia Hamdard ",
+        "trackingId": "/82I+OZ7ROOkg2BbpQ6AwA==",
+        "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFMs64rYt3xcA/company-logo_"
+      },
+      "timePeriod": {
+        "endDate": { "year": 2016 },
+        "startDate": { "year": 2013 }
+      },
+      "degreeName": "Bachelor of computer applications",
+      "schoolName": "Jamia Hamdard ",
+      "schoolUrn": "urn:li:fs_miniSchool:3232837"
+    }
+  ],
+  "languages": [],
+  "publications": [],
+  "certifications": [
+    {
+      "authority": "hirist.com",
+      "name": "Tech Recruiter",
+      "timePeriod": { "startDate": { "month": 11, "year": 2020 } },
+      "licenseNumber": "cert_t6c0mbl",
+      "company": {
+        "objectUrn": "urn:li:company:2862783",
+        "entityUrn": "urn:li:fs_miniCompany:2862783",
+        "name": "hirist.com",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1519912707176?e=1666224000&v=beta&t=hOLhlr5pgZiKM6Hb_sLQcL1hQyEeLwEQ9pS2dUhlNPc",
+                "expiresAt": 1666224000000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1519912707176?e=1666224000&v=beta&t=czE9CKN8nBwrVEkY_k1r6oVp5rl0A9rne9qeWS7imFA",
+                "expiresAt": 1666224000000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1519912707176?e=1666224000&v=beta&t=3xWj20axL2FNo-3Y8juujOjfrSiCtPTBKIHe_ykSw20",
+                "expiresAt": 1666224000000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEons36QZBOEw/company-logo_"
+          }
+        },
+        "universalName": "hirist-com",
+        "dashCompanyUrn": "urn:li:fsd_company:2862783",
+        "trackingId": "ppKG8WK+T1GW1KuAv/Pa+Q=="
+      },
+      "companyUrn": "urn:li:fs_miniCompany:2862783"
+    },
+    {
+      "authority": "hirist.com",
+      "name": "Employer  Branding",
+      "timePeriod": { "startDate": { "month": 3, "year": 2021 } },
+      "licenseNumber": "cert_ytd06n6w",
+      "company": {
+        "objectUrn": "urn:li:company:2862783",
+        "entityUrn": "urn:li:fs_miniCompany:2862783",
+        "name": "hirist.com",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1519912707176?e=1666224000&v=beta&t=hOLhlr5pgZiKM6Hb_sLQcL1hQyEeLwEQ9pS2dUhlNPc",
+                "expiresAt": 1666224000000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1519912707176?e=1666224000&v=beta&t=czE9CKN8nBwrVEkY_k1r6oVp5rl0A9rne9qeWS7imFA",
+                "expiresAt": 1666224000000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1519912707176?e=1666224000&v=beta&t=3xWj20axL2FNo-3Y8juujOjfrSiCtPTBKIHe_ykSw20",
+                "expiresAt": 1666224000000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEons36QZBOEw/company-logo_"
+          }
+        },
+        "universalName": "hirist-com",
+        "dashCompanyUrn": "urn:li:fsd_company:2862783",
+        "trackingId": "In6raLhbSruWxg1LFBRMzw=="
+      },
+      "companyUrn": "urn:li:fs_miniCompany:2862783"
+    }
+  ],
+  "volunteer": [],
+  "honors": []
+}

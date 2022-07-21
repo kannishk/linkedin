@@ -1,0 +1,111 @@
+{
+  "industryName": "Computer Software",
+  "lastName": "Vijayakumar",
+  "locationName": "India",
+  "student": false,
+  "geoCountryName": "India",
+  "geoCountryUrn": "urn:li:fs_geo:102713980",
+  "geoLocationBackfilled": false,
+  "elt": true,
+  "industryUrn": "urn:li:fs_industry:4",
+  "firstName": "Nandhini",
+  "entityUrn": "urn:li:fs_profile:ACoAADVSSPUBMv-rZB8NZl2t6lh8F8iEJ30uJgM",
+  "geoLocation": { "geoUrn": "urn:li:fs_geo:111257139" },
+  "geoLocationName": "Thanjavur, Tamil Nadu",
+  "location": { "basicLocation": { "countryCode": "in" } },
+  "headline": "Blockchain Trainee",
+  "displayPictureUrl": "https://media-exp2.licdn.com/dms/image/C5603AQH-7p9iqEP8ZA/profile-displayphoto-shrink_",
+  "img_100_100": "100_100/0/1617987744028?e=1663804800&v=beta&t=4UYYHcIYalE3lMdA-MA8tNuLGd0ycPfeihqush96VI0",
+  "img_200_200": "200_200/0/1617987744028?e=1663804800&v=beta&t=ty5AC1OlHewkP2vDJeTHJpVNZfCYrvC6hMKoYkUXBc8",
+  "img_400_400": "400_400/0/1617987744028?e=1663804800&v=beta&t=Yg8cx3wOEpWlXXYnh-KeWIbjamoIKmOOdk8we4e4NbM",
+  "img_800_800": "800_800/0/1617987744028?e=1663804800&v=beta&t=ER5p2K-8S1UrNByiErd-ORJEVpe1kOkfh2yEx0ctlwo",
+  "profile_id": "ACoAADVSSPUBMv-rZB8NZl2t6lh8F8iEJ30uJgM",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAADVSSPUBMv-rZB8NZl2t6lh8F8iEJ30uJgM",
+  "member_urn": "urn:li:member:894585077",
+  "experience": [
+    {
+      "locationName": "Thanjavur, Tamil Nadu, India",
+      "entityUrn": "urn:li:fs_position:(ACoAADVSSPUBMv-rZB8NZl2t6lh8F8iEJ30uJgM,1963315084)",
+      "geoLocationName": "Thanjavur, Tamil Nadu, India",
+      "geoUrn": "urn:li:fs_geo:111257139",
+      "companyName": "Sigma Labs",
+      "timePeriod": { "startDate": { "month": 5, "year": 2022 } },
+      "company": {
+        "employeeCountRange": { "start": 11, "end": 50 },
+        "industries": ["Financial Services"]
+      },
+      "title": "Blockchain Trainee-TEAL and solidity",
+      "region": "urn:li:fs_region:(in,0)",
+      "companyUrn": "urn:li:fs_miniCompany:53454516",
+      "companyLogoUrl": "https://media-exp2.licdn.com/dms/image/C4D0BAQGXbmRnraI2eg/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAADVSSPUBMv-rZB8NZl2t6lh8F8iEJ30uJgM,796156508)",
+      "school": {
+        "objectUrn": "urn:li:school:196601",
+        "entityUrn": "urn:li:fs_miniSchool:196601",
+        "active": true,
+        "schoolName": "Anjalai Ammal Mahalingam Engineering College",
+        "trackingId": "LJ6e+Ix5Q7Koi3pxfFQsHA=="
+      },
+      "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+      "degreeName": "Bachelor of Engineering - BE",
+      "schoolName": "Anjalai Ammal Mahalingam Engineering College",
+      "fieldOfStudy": "Computer Science",
+      "degreeUrn": "urn:li:fs_degree:269",
+      "schoolUrn": "urn:li:fs_miniSchool:196601"
+    }
+  ],
+  "languages": [],
+  "publications": [],
+  "certifications": [
+    {
+      "authority": "HackerRank",
+      "name": "JAVA (Basic) CERTIFICATE",
+      "timePeriod": { "startDate": { "month": 5, "year": 2022 } },
+      "licenseNumber": "0776B7D9E79F",
+      "company": {
+        "objectUrn": "urn:li:company:435210",
+        "entityUrn": "urn:li:fs_miniCompany:435210",
+        "name": "HackerRank",
+        "showcase": false,
+        "active": true,
+        "logo": {
+          "com.linkedin.common.VectorImage": {
+            "artifacts": [
+              {
+                "width": 200,
+                "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1666224000&v=beta&t=CSj6Ik8jlZtpznmxRHQBeMzulQffIPeMJfNNaFWJkQI",
+                "expiresAt": 1666224000000,
+                "height": 200
+              },
+              {
+                "width": 100,
+                "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1666224000&v=beta&t=vehJvhu31YFiVtoh5EG-uf1qWCH4iW5-OKcSFXwZuFg",
+                "expiresAt": 1666224000000,
+                "height": 100
+              },
+              {
+                "width": 400,
+                "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1666224000&v=beta&t=TPChv_8bcB9ce064Yft8mc8M-asIS87UHD7DM6zlaDI",
+                "expiresAt": 1666224000000,
+                "height": 400
+              }
+            ],
+            "rootUrl": "https://media-exp2.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+          }
+        },
+        "universalName": "hackerrank",
+        "dashCompanyUrn": "urn:li:fsd_company:435210",
+        "trackingId": "IDrW96ydSci/Qquj1RlWgA=="
+      },
+      "displaySource": "hackerrank.com",
+      "companyUrn": "urn:li:fs_miniCompany:435210",
+      "url": "https://www.hackerrank.com/certificates/0776b7d9e79f"
+    }
+  ],
+  "volunteer": [],
+  "honors": []
+}

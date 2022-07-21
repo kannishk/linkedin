@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.9"
+  },
+  "name": "auto_linkedin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module"
+}
